@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width= "200" height= "200" alt="Osborn Nartey - Ethical Hacker | AI Engineer | Robotics | Developer" />
+  <img src="banner.png" width= "1000" height= "500" alt="Osborn Nartey - Ethical Hacker | AI Engineer | Robotics | Developer" />
 </p>
 
 <h2 align="left">Hi 👋! My name is Osborn Nartey and I'm an Ethical Hacker, Embedded Systems & AI Engineer, and Full-Stack Developer, from Ghana 🌍</h2>
