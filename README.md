@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Osborn Nartey - Ethical Hacker | AI Engineer | Robotics | Developer" />
+</p>
+
 <h2 align="left">Hi 👋! My name is Osborn Nartey and I'm an Ethical Hacker, Embedded Systems & AI Engineer, and Full-Stack Developer, from Ghana 🌍</h2>
 
 ###
