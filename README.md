@@ -44,17 +44,43 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
 ### 🚀 About Me  
-- 🔐 Ethical Hacker with a focus on **pentesting, reverse engineering, and OSINT**  
-- 🤖 Robotics & Embedded Systems enthusiast (Arduino, Raspberry Pi, IoT)  
-- 🧠 AI Engineer skilled in **ML/DL frameworks** (TensorFlow, PyTorch)  
-- 📱 Flutter developer creating cross-platform apps  
-- 🌐 Full-Stack Developer (MERN & Node.js backends)  
-- 💡 Passionate about **building secure, intelligent, and impactful tech**  
+- 🔐 **Ethical Hacker** specializing in Pentesting, Reverse Engineering, OSINT & Exploit Development  
+- 🤖 **Robotics & Embedded Systems** (Arduino, Raspberry Pi, IoT solutions)  
+- 🧠 **AI Engineer** with expertise in TensorFlow, PyTorch & intelligent system design  
+- 📱 **Flutter Developer** crafting high-performance cross-platform apps  
+- 🌐 **Full-Stack Developer** (MERN & Node.js backends)  
+- 💡 Passionate about building **secure, intelligent & impactful technology**  
 
 ---
 
-💼 Open to remote & on-site opportunities.  
+### 🏆 CTF & Cybersecurity Experience  
+- Active on **HackTheBox**, **TryHackMe**, **MetaCTF**, **VishwaCTF**, **PhoenoexCTF**  
+- Skilled in:  
+  - Network, System & Web Application Pentesting  
+  - Binary Exploitation & Reverse Engineering  
+  - OSINT & Social Engineering  
+- Developed **custom encryption scripts & security tools**  
+
+---
+
+### 🔨 Featured Projects  
+- 🏠 **[HomeBoss](#)** → Smart home system for lighting, doors & security (IoT + mobile app)  
+- 🙏 **[Faith Haven](#)** → Devotional web platform with admin dashboard (Node.js + MongoDB)  
+- 🛡 **[Lock3t](#)** → Secure social media with built-in crypto transactions  
+- 🤖 **[HEBINAR](#)** → Human Emotion Based Intelligence Robot (emotion-simulating assistant)  
+- 🚀 **[Smartii Dashboard](#)** → Futuristic smart home interface with voice control  
+
+---
+
+### 📌 Quick Facts  
+- 🌍 Based in **Ghana**  
+- 📚 Self-taught + actively pursuing a **university degree in tech**  
+- 💼 Open to **remote & on-site opportunities**  
+- 🤝 Looking to collaborate on **AI, security, IoT, and impactful open-source projects**  
+
+---
+
 📫 Reach me at: **your.email@gmail.com** | [LinkedIn](#)  
