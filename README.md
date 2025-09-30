@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width= "1000" height= "500" alt="Osborn Nartey - Ethical Hacker | AI Engineer | Robotics | Developer" />
+  <img src="banner.png" width= "1000" height= "400" alt="Osborn Nartey - Ethical Hacker | AI Engineer | Robotics | Developer" />
 </p>
 
 <h2 align="left">Hi 👋! My name is Osborn Nartey and I'm an Ethical Hacker, Embedded Systems & AI Engineer, and Full-Stack Developer, from Ghana 🌍</h2>
@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndraDVzY2drejhqNTlzZTJ5MHQ2dm03ZmUxbWFkODUxbXN5eW5qMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EoH4Wpu8suiNTLpI6j/giphy.gif"  />
 
 ###
 
@@ -27,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
